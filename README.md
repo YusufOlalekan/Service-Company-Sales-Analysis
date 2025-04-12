@@ -14,4 +14,22 @@ Numbering the Steps in data cleaning
 1. load Data
 2. Ecplore data
 3. Clean Data
-4. Format Data 
+4. Format Data
+
+
+   ### Exploratory Data Analysis
+   EDA involves Exploring the dataset to Answer kkey question, Such as,
+
+   - What is the overall Sales Trend ?
+   - Which Product are top seller ?
+   - What are the peak sales period ?
+  
+     ### Data Analysis
+     Add MySql codes used
+
+     ```Sql
+     Select *
+     Form Table1
+     Where Column1 = Winter;
+     ```
+     
