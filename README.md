@@ -7,7 +7,9 @@
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Analysis](#data-analysis)
 - [Project outcome](#project-outcome)
-- 
+- [Recommendation](#recommendation)
+- [Limitation ](#Limitation)
+- [References ](#References)
 
 ## for sales project 
 ### Project Overview
