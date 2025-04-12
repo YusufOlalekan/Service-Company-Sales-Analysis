@@ -7,6 +7,7 @@
 
 ## for sales project 
 ### Project Overview
+---
 all of these are project overview saksnclxvnc vcm cnb cxjkbv cxn,v,cxv cnmnbxc
 
 
@@ -61,4 +62,14 @@ I had to remove outlier from my dataset so as no to affect my accuracy.
 ### References 
 1. Thinking With Data By Max Shron
 2. [Positive Hills ](http://Positivehills.com)
+
+😃
+
+⚖️
+|headings1|HEading2|
+|---------|--------|
+|Content1 |Content2|
+|Python   |MySQL   |
+
+
 
