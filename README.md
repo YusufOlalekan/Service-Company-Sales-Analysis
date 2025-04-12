@@ -1,4 +1,10 @@
 # Service-Company-Sales-Analysis
+
+## Table of Conten
+- [Project Overview](#project-overview)
+- [Tools](#tools)
+- [Project outcome](#project-outcome)
+
 ## for sales project 
 ### Project Overview
 all of these are project overview saksnclxvnc vcm cnb cxjkbv cxn,v,cxv cnmnbxc
@@ -17,14 +23,14 @@ Numbering the Steps in data cleaning
 4. Format Data
 
 
-   ### Exploratory Data Analysis
+### Exploratory Data Analysis
    EDA involves Exploring the dataset to Answer kkey question, Such as,
 
-   - What is the overall Sales Trend ?
-   - Which Product are top seller ?
-   - What are the peak sales period ?
+ - What is the overall Sales Trend ?
+ - Which Product are top seller ?
+ - What are the peak sales period ?
   
-     ### Data Analysis
+ ### Data Analysis
      Add MySql codes used
 
      ```Sql
@@ -33,3 +39,21 @@ Numbering the Steps in data cleaning
      Where Column1 = Winter;
      ```
      
+ ### Project outcome
+   This project uncover:
+1. The company sales moves steadity doring holidays
+2. Best performing product category is fish in term of sasls and revenue 
+3. Client between age 20 and 35 are regular customer
+
+### Recommendation
+   - invest in marketing during peak sales
+   - Focus on expanding
+   - customer Strategy
+
+### Limitation 
+I had to remove outlier from my dataset so as no to affect my accuracy.
+
+### References 
+1. Thinking With Data By Max Shron
+2. [Positive Hills ](http://Positivehills.com)
+
