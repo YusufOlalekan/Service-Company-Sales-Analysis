@@ -3,7 +3,7 @@
 ## Table of Content
 - [Project Overview](#project-overview)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Cleaning/Preparation](#data-cleaning--preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Analysis](#data-analysis)
 - [Project outcome](#project-outcome)
