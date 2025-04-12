@@ -3,8 +3,7 @@
 ## Table of Content
 - [Project Overview](#project-overview)
 - [Tools](#tools)
-- [Data Cleaning / Preparation](#data-cleaning--preparation)
-- [Data Cleaning/Preparation](#data-cleaning--preparation)
+- [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Analysis](#data-analysis)
 - [Project outcome](#project-outcome)
@@ -26,7 +25,7 @@ all of these are project overview saksnclxvnc vcm cnb cxjkbv cxn,v,cxv cnmnbxc
 - Power BI- Data Visualization 
 
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 Numbering the Steps in data cleaning 
 1. load Data
 2. Ecplore data
