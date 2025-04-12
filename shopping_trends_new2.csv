@@ -1,0 +1,1101 @@
+Country,City,ProductCategory,CustomerSegment,SaleDate,SalesAmount,ProfitAmount,UnitsSold
+Germany,Cologne,Books,Corporate,19/01/2023,62.19,4.7,1
+Australia,Canberra,Groceries,Home Office,26/04/2023,1494.72,489.6,18
+USA,Phoenix,Books,Home Office,08/07/2023,389.7,106.86,6
+India,Hyderabad,Apparel,Consumer,08/09/2023,118.5,31.14,6
+USA,Los Angeles,Apparel,Home Office,28/10/2023,940.2,243,20
+Germany,Stuttgart,Books,Home Office,31/03/2023,177.6,35.12,4
+USA,Houston,Books,Corporate,09/08/2023,582.12,107.16,12
+Germany,Stuttgart,Books,Corporate,09/07/2023,274.35,78.15,15
+Australia,Melbourne,Books,Home Office,26/02/2023,65.03,10.35,1
+Germany,Hamburg,Apparel,Corporate,29/06/2023,649.81,257.11,7
+Australia,Melbourne,Apparel,Home Office,22/11/2023,273.42,54.63,9
+Australia,Brisbane,Books,Consumer,31/07/2023,172.8,55.44,6
+India,Mumbai,Electronics,Corporate,09/01/2023,1079.96,72.39,19
+Australia,Brisbane,Toys,Corporate,12/12/2023,631.15,124.54,13
+India,Hyderabad,Sports,Home Office,12/06/2023,857.12,129.6,16
+India,Kolkata,Toys,Home Office,18/09/2023,613.97,163.03,7
+USA,Phoenix,Beauty,Corporate,29/12/2023,633.05,207.35,11
+India,Kolkata,Furniture,Home Office,27/02/2023,564.3,203.49,19
+India,Chennai,Groceries,Corporate,04/07/2023,976.5,243.18,14
+USA,Dallas,Furniture,Corporate,29/01/2023,47.22,16.86,1
+USA,Los Angeles,Sports,Consumer,14/03/2023,419.58,108.92,14
+Australia,Sydney,Groceries,Consumer,12/06/2023,1104.32,258.24,16
+Australia,Hobart,Electronics,Home Office,30/10/2023,1233.4,379.8,20
+USA,Phoenix,Books,Consumer,10/07/2023,60.95,5.85,5
+USA,Phoenix,Electronics,Corporate,09/11/2023,476.19,84.89,13
+India,Hyderabad,Furniture,Home Office,23/08/2023,418.88,28.9,17
+Australia,Hobart,Sports,Home Office,20/05/2023,1132.16,246.88,16
+USA,Dallas,Books,Home Office,16/10/2023,128.34,40.32,18
+USA,Phoenix,Books,Corporate,24/05/2023,129.92,13.65,7
+USA,Phoenix,Books,Home Office,21/09/2023,196.9,32.12,2
+India,Kolkata,Groceries,Home Office,07/08/2023,1116.9,407.52,18
+Germany,Munich,Groceries,Corporate,10/09/2023,238,23.52,7
+Australia,Canberra,Groceries,Consumer,10/01/2023,1946.8,170.8,20
+Germany,Munich,Electronics,Consumer,19/10/2023,1048.8,250.6,20
+Australia,Canberra,Beauty,Consumer,08/03/2023,186.04,53.16,2
+India,Bangalore,Apparel,Corporate,17/03/2023,134.54,22.54,14
+Germany,Stuttgart,Toys,Corporate,26/07/2023,92.44,16.96,1
+India,Pune,Sports,Home Office,10/07/2023,693.07,39.27,7
+India,Pune,Furniture,Consumer,01/04/2023,536.9,137.67,13
+Germany,Munich,Sports,Consumer,18/10/2023,567.04,144.8,16
+Germany,Cologne,Furniture,Home Office,26/11/2023,1091.4,24.65,17
+Australia,Hobart,Electronics,Corporate,14/01/2023,21.57,7.44,1
+Australia,Hobart,Apparel,Corporate,20/05/2023,633.24,249.48,18
+India,Pune,Electronics,Consumer,24/09/2023,344.25,119,17
+India,Mumbai,Electronics,Consumer,22/02/2023,1020.96,268.68,12
+USA,Chicago,Groceries,Consumer,15/06/2023,183.48,58.74,2
+Australia,Melbourne,Books,Corporate,17/05/2023,403.05,108.9,15
+Germany,Munich,Books,Consumer,31/03/2023,1222.27,459.23,19
+USA,New York,Sports,Corporate,24/07/2023,714.8,276.32,8
+Australia,Melbourne,Apparel,Corporate,12/05/2023,591.75,166.23,9
+USA,Los Angeles,Books,Corporate,27/01/2023,28.59,10.04,1
+Australia,Brisbane,Books,Consumer,25/09/2023,83.79,11.73,3
+Germany,Cologne,Apparel,Corporate,15/06/2023,1357.44,218.4,14
+India,Delhi,Electronics,Home Office,14/02/2023,255,14.25,3
+Germany,Munich,Toys,Corporate,01/10/2023,258.54,5.55,3
+Australia,Hobart,Books,Corporate,03/04/2023,407,124.8,20
+Australia,Brisbane,Apparel,Consumer,14/02/2023,871.09,288.97,11
+Germany,Stuttgart,Furniture,Corporate,05/10/2023,165.18,44.52,6
+USA,Dallas,Groceries,Consumer,03/05/2023,293.58,79.52,14
+Germany,Munich,Books,Home Office,02/01/2023,1950.8,706.8,20
+Australia,Melbourne,Toys,Home Office,27/05/2023,318.8,17.36,8
+India,Pune,Apparel,Consumer,31/10/2023,360,5,4
+India,Pune,Sports,Home Office,20/07/2023,167.13,54.63,9
+India,Bangalore,Books,Corporate,05/10/2023,401,116.8,20
+India,Chennai,Furniture,Consumer,25/03/2023,479.6,6.7,5
+USA,Dallas,Toys,Home Office,26/12/2023,557.06,60.97,7
+India,Pune,Sports,Home Office,30/08/2023,263.68,25.92,4
+Australia,Melbourne,Books,Home Office,02/01/2023,124.94,7.1,2
+Germany,Stuttgart,Electronics,Home Office,29/07/2023,219.1,74.34,14
+Australia,Melbourne,Sports,Home Office,10/07/2023,93.24,30.84,12
+Germany,Stuttgart,Beauty,Consumer,08/12/2023,234.6,67.2,12
+India,Mumbai,Beauty,Corporate,16/04/2023,370.08,36.72,18
+Australia,Canberra,Electronics,Corporate,02/10/2023,1785.24,26.82,18
+USA,Chicago,Books,Consumer,01/07/2023,1349.97,210.63,17
+Australia,Hobart,Books,Home Office,24/09/2023,405.66,103.92,6
+USA,Chicago,Electronics,Corporate,10/02/2023,1023.3,64.05,15
+Germany,Frankfurt,Beauty,Home Office,24/03/2023,1119.52,116.32,16
+USA,Phoenix,Apparel,Home Office,25/07/2023,284.84,39.72,4
+Australia,Canberra,Electronics,Corporate,24/01/2023,1414.5,305.4,15
+Germany,Cologne,Toys,Home Office,06/09/2023,348.8,102.72,16
+India,Chennai,Electronics,Consumer,02/04/2023,1545.08,91.39,19
+Germany,Berlin,Furniture,Consumer,18/10/2023,301.04,116.64,8
+India,Hyderabad,Apparel,Home Office,29/09/2023,308.7,84.14,14
+Germany,Frankfurt,Sports,Corporate,16/01/2023,1183,314.3,14
+Australia,Melbourne,Books,Corporate,22/10/2023,1784.88,675.9,18
+Australia,Brisbane,Books,Home Office,12/11/2023,1276.24,421.82,14
+Australia,Perth,Groceries,Home Office,11/08/2023,41.65,6.49,1
+USA,Phoenix,Groceries,Consumer,16/07/2023,1630.96,31.54,19
+Germany,Hamburg,Beauty,Home Office,07/01/2023,121.5,38.5,10
+Germany,Munich,Books,Consumer,10/10/2023,431.04,28.16,8
+Germany,Hamburg,Electronics,Consumer,10/08/2023,922.8,331.7,10
+USA,Phoenix,Electronics,Home Office,05/01/2023,920.92,264.55,13
+USA,Chicago,Furniture,Corporate,13/04/2023,364.4,114.28,4
+India,Kolkata,Furniture,Home Office,10/11/2023,144.48,52.44,6
+Australia,Hobart,Toys,Home Office,08/12/2023,1344.96,357.84,18
+Germany,Stuttgart,Toys,Consumer,23/08/2023,680.1,46.65,15
+USA,Phoenix,Electronics,Consumer,24/03/2023,794.56,91.44,8
+USA,Phoenix,Furniture,Corporate,10/10/2023,534.94,60.2,14
+USA,Houston,Furniture,Consumer,10/11/2023,211.95,41.55,15
+USA,New York,Furniture,Consumer,11/10/2023,169.2,19.26,18
+USA,Chicago,Electronics,Consumer,11/08/2023,750.4,99.5,10
+Australia,Sydney,Beauty,Home Office,19/10/2023,142.74,16.44,6
+USA,San Diego,Furniture,Consumer,06/09/2023,670.8,99.6,15
+USA,New York,Books,Corporate,14/02/2023,50.39,13.26,1
+Germany,Frankfurt,Furniture,Corporate,20/01/2023,423.52,41.12,8
+India,Bangalore,Furniture,Home Office,31/01/2023,1054.68,184.11,17
+India,Chennai,Electronics,Corporate,27/03/2023,425.05,59.45,5
+USA,Chicago,Sports,Home Office,26/04/2023,456,86.48,8
+Australia,Sydney,Apparel,Home Office,14/05/2023,389.04,123.84,12
+India,Pune,Furniture,Corporate,27/09/2023,140.4,42.75,5
+Germany,Cologne,Toys,Consumer,01/12/2023,198.78,20.88,3
+Australia,Adelaide,Apparel,Home Office,04/03/2023,458.56,50.4,8
+Germany,Berlin,Furniture,Consumer,21/10/2023,262.46,100.76,11
+Australia,Melbourne,Apparel,Consumer,10/08/2023,58.74,16.5,11
+Germany,Berlin,Toys,Consumer,20/09/2023,254.8,42.98,14
+Australia,Canberra,Groceries,Consumer,19/01/2023,68.24,7.92,4
+Australia,Adelaide,Electronics,Home Office,22/05/2023,48.55,8.9,5
+Germany,Frankfurt,Apparel,Corporate,20/02/2023,1537.76,250.88,16
+Australia,Canberra,Groceries,Home Office,15/06/2023,420.8,37.2,10
+Germany,Frankfurt,Beauty,Home Office,23/07/2023,514.35,44.1,15
+USA,New York,Toys,Corporate,30/07/2023,179.79,4.05,3
+USA,Houston,Groceries,Consumer,29/01/2023,46.9,8.47,7
+Australia,Sydney,Sports,Home Office,05/06/2023,361.8,44.04,12
+Australia,Sydney,Sports,Corporate,23/03/2023,1027.36,47.52,16
+Germany,Munich,Books,Corporate,22/03/2023,413.82,120.66,6
+India,Bangalore,Toys,Consumer,01/08/2023,291.21,18.12,3
+Australia,Melbourne,Groceries,Consumer,14/07/2023,61.45,20.94,1
+India,Chennai,Toys,Corporate,18/01/2023,293.58,56.04,6
+Germany,Berlin,Beauty,Corporate,22/10/2023,459.45,149.31,9
+India,Chennai,Toys,Consumer,21/11/2023,267.44,77.84,8
+Germany,Dresden,Electronics,Corporate,28/11/2023,1202.22,226.26,18
+India,Mumbai,Books,Corporate,30/09/2023,689.12,98.08,8
+Germany,Cologne,Books,Home Office,12/12/2023,34.08,9.5,2
+Australia,Sydney,Apparel,Consumer,02/05/2023,1077.68,124.83,19
+Australia,Sydney,Furniture,Home Office,28/07/2023,75.7,3.18,1
+Australia,Perth,Apparel,Home Office,01/03/2023,193.6,52.2,20
+Australia,Sydney,Sports,Home Office,26/05/2023,675.64,137.56,19
+USA,Phoenix,Books,Consumer,03/09/2023,1829,95.8,20
+India,Kolkata,Books,Corporate,22/06/2023,854.28,282.12,12
+USA,Phoenix,Books,Corporate,25/04/2023,321.9,38.76,6
+Germany,Munich,Furniture,Corporate,19/10/2023,1334.34,289.26,18
+USA,San Diego,Apparel,Consumer,01/03/2023,344.76,103.8,4
+India,Mumbai,Furniture,Consumer,31/01/2023,138.65,52.2,5
+USA,San Diego,Apparel,Home Office,16/06/2023,84.03,33.33,1
+Australia,Canberra,Electronics,Corporate,21/06/2023,608.16,115.2,12
+India,Mumbai,Electronics,Home Office,26/04/2023,837.93,92.14,17
+Australia,Brisbane,Furniture,Corporate,16/12/2023,149.88,24.6,12
+USA,Houston,Sports,Corporate,28/01/2023,41.01,14.71,1
+Australia,Sydney,Electronics,Consumer,17/08/2023,672.8,253.12,8
+Australia,Adelaide,Furniture,Consumer,16/04/2023,365.16,142.4,4
+Germany,Cologne,Books,Home Office,04/01/2023,130.2,36.76,4
+Germany,Berlin,Electronics,Corporate,10/03/2023,127.42,18.98,2
+Australia,Adelaide,Apparel,Corporate,10/02/2023,895.8,80.52,12
+USA,Phoenix,Apparel,Corporate,29/06/2023,53.91,15.62,1
+India,Mumbai,Books,Corporate,09/04/2023,5.67,1.51,1
+India,Hyderabad,Furniture,Consumer,12/03/2023,242.8,39.55,5
+Germany,Berlin,Toys,Consumer,15/12/2023,28.82,5.67,1
+India,Delhi,Electronics,Consumer,29/07/2023,359.76,98.56,4
+Germany,Berlin,Sports,Home Office,01/01/2023,1147.44,30.6,12
+Australia,Melbourne,Groceries,Corporate,27/12/2023,1123.85,254.6,19
+India,Pune,Books,Home Office,15/03/2023,349.68,100.62,6
+Australia,Perth,Books,Corporate,09/09/2023,887.55,238.5,15
+Germany,Dresden,Electronics,Consumer,09/01/2023,194.25,59.71,7
+USA,Dallas,Beauty,Home Office,30/08/2023,391.16,76.16,7
+USA,Los Angeles,Groceries,Home Office,03/02/2023,378.62,114.51,11
+USA,Dallas,Books,Consumer,20/09/2023,604.52,21.08,17
+Australia,Sydney,Sports,Home Office,25/11/2023,1264.16,278.4,16
+India,Kolkata,Beauty,Home Office,06/05/2023,1456.73,241.11,19
+India,Kolkata,Electronics,Consumer,22/03/2023,644.84,191.31,7
+Germany,Berlin,Furniture,Home Office,28/09/2023,1069.42,39.93,11
+Australia,Canberra,Furniture,Consumer,14/10/2023,453.78,70.44,6
+Australia,Brisbane,Furniture,Consumer,09/08/2023,1018.68,112.71,13
+India,Hyderabad,Electronics,Consumer,14/10/2023,510,30.06,6
+Australia,Melbourne,Toys,Home Office,18/05/2023,293.24,116.28,4
+Australia,Canberra,Beauty,Corporate,15/09/2023,66.6,19.38,6
+USA,Dallas,Groceries,Consumer,16/10/2023,298.8,99,20
+Germany,Cologne,Sports,Corporate,29/08/2023,483.08,46.67,13
+Germany,Cologne,Sports,Home Office,26/04/2023,90.65,31.3,5
+India,Pune,Apparel,Home Office,07/01/2023,530.75,149.6,11
+Australia,Perth,Books,Home Office,05/07/2023,32.07,12.25,1
+Australia,Canberra,Electronics,Home Office,06/07/2023,643.16,238.28,14
+India,Delhi,Beauty,Consumer,10/09/2023,43.26,16.56,6
+Germany,Berlin,Beauty,Home Office,14/11/2023,112.28,40.53,7
+India,Bangalore,Electronics,Corporate,18/08/2023,745.4,275.1,10
+India,Delhi,Electronics,Consumer,25/02/2023,723.96,155.34,9
+USA,Phoenix,Toys,Consumer,17/07/2023,1778.02,93.1,19
+India,Delhi,Groceries,Consumer,30/09/2023,492.9,17.3,10
+Germany,Cologne,Groceries,Home Office,09/10/2023,879.92,276.42,17
+India,Mumbai,Books,Home Office,10/09/2023,355.8,106.5,15
+USA,Chicago,Toys,Consumer,02/01/2023,732.48,232.32,16
+Germany,Munich,Furniture,Consumer,12/05/2023,927.01,116.09,19
+USA,Chicago,Groceries,Corporate,19/12/2023,381.66,61.62,6
+Germany,Dresden,Furniture,Corporate,23/07/2023,1827.61,588.05,19
+Germany,Hamburg,Beauty,Corporate,28/11/2023,321.86,102.52,11
+USA,Houston,Furniture,Home Office,04/08/2023,1578.08,292,16
+Germany,Stuttgart,Furniture,Consumer,04/12/2023,741.72,250.04,14
+USA,Los Angeles,Toys,Corporate,29/04/2023,100.8,15.96,14
+Germany,Frankfurt,Beauty,Consumer,08/01/2023,434.46,45.89,13
+India,Pune,Sports,Home Office,08/06/2023,300.58,82.08,19
+USA,Phoenix,Toys,Consumer,25/10/2023,1375.8,327.8,20
+Australia,Perth,Beauty,Home Office,21/09/2023,157.29,38.58,3
+Australia,Hobart,Groceries,Home Office,08/02/2023,67.56,5.32,4
+India,Delhi,Groceries,Consumer,27/01/2023,89.4,35.33,1
+Australia,Adelaide,Furniture,Home Office,21/10/2023,65.34,18.33,3
+USA,New York,Furniture,Corporate,02/03/2023,217.12,59.68,16
+India,Kolkata,Books,Consumer,05/12/2023,464.93,129.39,19
+India,Kolkata,Groceries,Consumer,15/06/2023,34.6,3.54,2
+Germany,Hamburg,Sports,Corporate,03/01/2023,85.85,12.3,5
+India,Kolkata,Apparel,Corporate,12/10/2023,65.91,21.84,13
+India,Kolkata,Electronics,Corporate,21/01/2023,1333.36,216.58,14
+USA,New York,Electronics,Consumer,27/11/2023,1269.44,247.36,16
+Germany,Stuttgart,Groceries,Consumer,30/12/2023,698,230.2,20
+India,Kolkata,Toys,Consumer,09/02/2023,108.88,31.12,8
+Germany,Stuttgart,Apparel,Home Office,25/09/2023,451.36,63.84,14
+Germany,Cologne,Toys,Consumer,07/04/2023,65.72,2.08,2
+USA,Houston,Apparel,Home Office,16/12/2023,591.68,51.36,16
+Australia,Brisbane,Books,Consumer,01/03/2023,1651.04,518.16,17
+India,Bangalore,Sports,Consumer,30/03/2023,1347.25,197.2,17
+Germany,Dresden,Books,Consumer,27/08/2023,169.2,44.1,6
+India,Pune,Sports,Home Office,13/11/2023,29.49,2.97,1
+India,Kolkata,Beauty,Home Office,30/07/2023,409.5,115.2,6
+USA,Los Angeles,Books,Corporate,21/10/2023,85.44,21.72,4
+India,Bangalore,Furniture,Consumer,18/12/2023,86,22.4,8
+Australia,Canberra,Toys,Corporate,13/11/2023,924.22,85.47,11
+Australia,Brisbane,Furniture,Home Office,14/12/2023,1165.08,385.84,14
+Germany,Berlin,Beauty,Consumer,20/07/2023,521.71,121.73,7
+USA,Houston,Sports,Corporate,09/08/2023,779.2,196.88,8
+India,Hyderabad,Apparel,Home Office,05/01/2023,1818.8,197.6,20
+Australia,Adelaide,Apparel,Corporate,14/11/2023,1181.76,212.32,16
+USA,Houston,Books,Consumer,07/02/2023,89.04,25.8,2
+USA,San Diego,Sports,Consumer,10/04/2023,1111.24,255.71,13
+USA,Houston,Groceries,Corporate,14/12/2023,38.69,9.88,1
+Australia,Sydney,Groceries,Consumer,27/08/2023,290.55,87.48,3
+India,Delhi,Electronics,Consumer,16/02/2023,1557.36,480.78,18
+USA,Houston,Books,Home Office,10/07/2023,630.07,144.83,7
+Germany,Hamburg,Electronics,Corporate,23/08/2023,561.45,204.63,19
+USA,Houston,Books,Consumer,14/09/2023,58.14,7.65,1
+Germany,Berlin,Toys,Home Office,30/08/2023,142.64,42.8,8
+USA,San Diego,Furniture,Home Office,01/12/2023,332.76,121.02,6
+Australia,Perth,Books,Corporate,20/08/2023,190.98,44.01,3
+Germany,Stuttgart,Groceries,Consumer,22/04/2023,130.88,11.2,8
+Australia,Sydney,Electronics,Consumer,14/05/2023,45.83,1.38,1
+USA,Phoenix,Groceries,Home Office,09/09/2023,640.8,193.5,10
+Australia,Sydney,Apparel,Home Office,29/05/2023,634.5,26.25,15
+USA,Dallas,Sports,Home Office,17/02/2023,30.54,3.48,2
+Germany,Dresden,Beauty,Corporate,14/03/2023,10.28,2.81,1
+Germany,Frankfurt,Electronics,Home Office,10/06/2023,50.8,12.95,5
+Germany,Berlin,Apparel,Corporate,25/05/2023,95.65,11.3,5
+Germany,Berlin,Sports,Home Office,14/10/2023,299.76,38,8
+USA,Dallas,Groceries,Corporate,25/03/2023,1639.2,413,20
+Germany,Berlin,Electronics,Consumer,07/09/2023,34.61,7.72,1
+Germany,Munich,Sports,Home Office,18/02/2023,35.36,5.84,4
+USA,Los Angeles,Toys,Home Office,11/06/2023,210.06,77.04,18
+USA,Chicago,Furniture,Corporate,05/03/2023,72.16,25.61,1
+India,Kolkata,Beauty,Consumer,12/03/2023,1679.43,412.42,17
+Germany,Dresden,Books,Corporate,26/07/2023,204.35,62.4,5
+India,Chennai,Toys,Home Office,26/08/2023,101.98,35.26,2
+India,Pune,Furniture,Home Office,06/06/2023,1122.51,425.17,17
+Australia,Melbourne,Apparel,Corporate,30/04/2023,486.8,180.88,8
+Germany,Frankfurt,Sports,Home Office,06/03/2023,155.35,13.2,5
+India,Chennai,Groceries,Home Office,14/06/2023,186.39,19.38,19
+Germany,Dresden,Electronics,Consumer,08/02/2023,211.2,65.88,12
+USA,Chicago,Groceries,Home Office,27/06/2023,1013.04,31.14,18
+Germany,Berlin,Toys,Consumer,28/11/2023,152.58,20.31,3
+India,Pune,Furniture,Home Office,25/03/2023,552,130.24,16
+India,Delhi,Electronics,Consumer,24/01/2023,27.81,10.11,1
+Australia,Canberra,Toys,Home Office,24/07/2023,495.25,64.95,5
+Australia,Sydney,Books,Corporate,07/10/2023,1551,452.8,20
+India,Hyderabad,Beauty,Corporate,20/04/2023,710.82,18.15,11
+USA,Chicago,Apparel,Consumer,16/04/2023,1026.09,311.87,13
+USA,Dallas,Furniture,Consumer,03/09/2023,507.24,154.26,18
+Australia,Perth,Apparel,Consumer,23/07/2023,86.96,22.6,2
+Australia,Hobart,Electronics,Consumer,12/04/2023,1129.2,263.04,12
+Australia,Brisbane,Sports,Home Office,07/06/2023,610.61,118.02,7
+USA,Los Angeles,Beauty,Corporate,10/12/2023,338.4,86.22,18
+Germany,Munich,Groceries,Home Office,01/03/2023,472.86,114.39,9
+Germany,Frankfurt,Electronics,Corporate,15/08/2023,102.3,38.9,10
+Germany,Berlin,Groceries,Home Office,08/06/2023,29.18,7.7,2
+Germany,Berlin,Electronics,Consumer,17/10/2023,234.35,93.45,5
+USA,Los Angeles,Apparel,Corporate,30/07/2023,124.2,29.97,3
+Germany,Berlin,Beauty,Home Office,23/07/2023,388.7,30.4,5
+Germany,Stuttgart,Groceries,Consumer,12/07/2023,85.56,25.4,4
+India,Mumbai,Toys,Corporate,04/07/2023,994.08,154.56,16
+Australia,Sydney,Sports,Corporate,10/05/2023,347.32,73.72,4
+India,Hyderabad,Books,Home Office,27/07/2023,1481.43,230.85,19
+Germany,Stuttgart,Books,Corporate,03/06/2023,366.64,26.4,8
+India,Delhi,Groceries,Corporate,23/01/2023,85.14,16.5,6
+Australia,Perth,Electronics,Corporate,03/12/2023,1146.48,224.74,17
+Australia,Melbourne,Books,Home Office,27/10/2023,1267.2,131.4,15
+India,Bangalore,Apparel,Corporate,23/03/2023,1487.8,473.6,20
+India,Hyderabad,Groceries,Consumer,21/09/2023,291.36,90.3,6
+Australia,Perth,Beauty,Home Office,30/05/2023,509.92,135.68,16
+Germany,Dresden,Groceries,Consumer,19/03/2023,152,8,2
+USA,Dallas,Beauty,Home Office,12/10/2023,723,167,20
+USA,Chicago,Groceries,Home Office,15/06/2023,560.98,177.87,7
+Germany,Berlin,Toys,Corporate,12/01/2023,524.03,84.76,13
+Germany,Frankfurt,Electronics,Corporate,06/12/2023,800.82,110.16,18
+India,Chennai,Beauty,Corporate,12/04/2023,271.36,49.84,4
+India,Mumbai,Beauty,Consumer,27/01/2023,739.67,240.21,17
+Germany,Berlin,Beauty,Home Office,02/10/2023,733.02,262.01,19
+India,Delhi,Groceries,Consumer,06/10/2023,1067.43,95.88,17
+USA,Phoenix,Apparel,Corporate,14/05/2023,79.44,10.44,6
+Australia,Hobart,Books,Home Office,05/11/2023,533.12,182.4,16
+Australia,Canberra,Electronics,Home Office,22/06/2023,62.88,24.24,4
+USA,Phoenix,Books,Corporate,12/10/2023,1041,320.2,20
+India,Hyderabad,Electronics,Home Office,29/10/2023,31.83,1.09,1
+India,Kolkata,Beauty,Home Office,22/08/2023,874.94,141.46,11
+USA,Los Angeles,Groceries,Home Office,01/08/2023,779,139.84,19
+Australia,Melbourne,Sports,Home Office,07/05/2023,1237.88,242.06,14
+USA,Phoenix,Furniture,Corporate,23/10/2023,324.18,60.78,6
+USA,Phoenix,Sports,Home Office,14/02/2023,817.32,152.18,14
+India,Chennai,Apparel,Consumer,28/10/2023,1159.99,398.45,13
+India,Bangalore,Apparel,Consumer,20/08/2023,92.05,22.85,5
+Australia,Adelaide,Sports,Consumer,30/08/2023,319.26,103.8,6
+USA,Dallas,Beauty,Consumer,03/08/2023,653.4,29,20
+India,Kolkata,Toys,Corporate,12/05/2023,791.69,304.3,17
+Germany,Berlin,Electronics,Corporate,30/05/2023,1849.6,269.2,20
+Australia,Melbourne,Electronics,Home Office,22/02/2023,144.9,21.96,6
+Germany,Stuttgart,Groceries,Consumer,06/08/2023,847.05,313.5,15
+USA,New York,Sports,Home Office,19/03/2023,114.33,14.97,3
+Australia,Melbourne,Electronics,Corporate,12/10/2023,136.71,12.6,7
+Germany,Hamburg,Sports,Home Office,28/05/2023,857.78,60.06,11
+Australia,Hobart,Groceries,Corporate,22/02/2023,177.18,44.9,2
+USA,Dallas,Sports,Home Office,31/01/2023,1482.74,492.49,17
+Australia,Brisbane,Beauty,Corporate,02/05/2023,683.2,55.4,20
+India,Bangalore,Toys,Home Office,28/10/2023,315.56,84.14,14
+India,Hyderabad,Beauty,Consumer,02/08/2023,1319.52,188.96,16
+Australia,Brisbane,Beauty,Home Office,21/06/2023,424.66,100.64,17
+India,Kolkata,Groceries,Corporate,30/03/2023,191.62,29.64,13
+Australia,Sydney,Electronics,Home Office,20/05/2023,782.52,48.24,12
+Germany,Munich,Books,Corporate,27/04/2023,1142.28,246.6,18
+USA,San Diego,Books,Corporate,15/09/2023,103.65,15.15,3
+Australia,Sydney,Furniture,Corporate,31/08/2023,234.39,81.03,3
+Australia,Brisbane,Sports,Consumer,12/10/2023,68.28,25.32,12
+USA,San Diego,Furniture,Consumer,11/09/2023,258.15,93.85,5
+Australia,Perth,Books,Consumer,11/12/2023,848.28,32.28,12
+Germany,Berlin,Apparel,Corporate,27/03/2023,303,118.8,10
+Australia,Melbourne,Electronics,Home Office,12/05/2023,1419.68,511.29,19
+USA,Los Angeles,Apparel,Home Office,03/12/2023,107.54,37.05,19
+USA,Los Angeles,Groceries,Corporate,22/09/2023,524.96,147.22,17
+Germany,Munich,Groceries,Home Office,04/02/2023,597.51,19.71,9
+Germany,Hamburg,Apparel,Corporate,29/08/2023,333.41,124.41,11
+Germany,Berlin,Beauty,Consumer,23/12/2023,173.78,22.16,2
+USA,Houston,Sports,Home Office,15/12/2023,51.23,14.65,1
+India,Mumbai,Furniture,Home Office,08/03/2023,1084,155.8,20
+USA,Los Angeles,Sports,Corporate,20/09/2023,312.36,26.56,4
+Germany,Stuttgart,Books,Consumer,30/08/2023,170.76,49.04,2
+India,Chennai,Toys,Corporate,04/05/2023,413.4,159.78,6
+India,Hyderabad,Beauty,Home Office,28/06/2023,554.88,68.64,6
+Australia,Perth,Beauty,Home Office,25/02/2023,161.04,31.12,4
+India,Pune,Groceries,Consumer,27/11/2023,185.64,69.3,6
+India,Bangalore,Beauty,Corporate,23/11/2023,184.31,55.16,7
+Australia,Perth,Electronics,Consumer,20/07/2023,774.1,170.1,10
+Germany,Cologne,Apparel,Consumer,16/08/2023,511.8,37.8,10
+USA,Los Angeles,Beauty,Corporate,14/12/2023,568.8,23.22,6
+Australia,Melbourne,Electronics,Corporate,30/05/2023,59.96,8.78,1
+India,Mumbai,Apparel,Corporate,11/07/2023,700.4,73.61,17
+India,Chennai,Furniture,Home Office,23/05/2023,1125,315.8,20
+Australia,Sydney,Electronics,Home Office,14/03/2023,274.4,57.44,16
+Germany,Cologne,Groceries,Home Office,14/09/2023,1259.1,286.38,18
+Germany,Berlin,Electronics,Corporate,31/05/2023,271.85,55.95,5
+Australia,Perth,Groceries,Corporate,23/11/2023,1802.8,450.6,20
+India,Hyderabad,Books,Consumer,27/01/2023,1413.03,289.37,19
+Germany,Berlin,Furniture,Consumer,15/02/2023,289.52,114.4,8
+India,Mumbai,Toys,Home Office,15/09/2023,523.4,180.6,20
+Australia,Perth,Toys,Consumer,28/10/2023,642.04,191.8,14
+Australia,Sydney,Electronics,Home Office,20/01/2023,157.63,59.29,11
+Australia,Melbourne,Apparel,Consumer,04/06/2023,989.85,74.1,15
+USA,Los Angeles,Books,Home Office,24/08/2023,560.64,127.08,12
+Germany,Cologne,Electronics,Consumer,12/07/2023,1499.6,303,20
+India,Bangalore,Toys,Home Office,20/09/2023,1284.15,481.35,15
+India,Chennai,Sports,Home Office,10/11/2023,444.48,36.16,16
+Australia,Canberra,Beauty,Home Office,03/09/2023,1155.96,105.48,12
+India,Kolkata,Sports,Corporate,13/12/2023,385.32,51,4
+India,Delhi,Apparel,Corporate,10/12/2023,541.1,212.2,10
+Germany,Hamburg,Groceries,Consumer,30/05/2023,862.32,172.8,12
+USA,Houston,Toys,Corporate,27/03/2023,600,238,20
+India,Hyderabad,Apparel,Home Office,01/10/2023,538.2,101.55,15
+India,Pune,Groceries,Consumer,22/06/2023,1510.6,551.6,20
+Australia,Sydney,Books,Consumer,14/10/2023,997.8,235.7,10
+India,Hyderabad,Beauty,Corporate,13/07/2023,123.44,49.04,8
+USA,Dallas,Furniture,Home Office,12/03/2023,1739.83,340.29,19
+Germany,Cologne,Electronics,Home Office,29/07/2023,770.22,144.54,18
+USA,New York,Groceries,Home Office,30/08/2023,353.55,99.9,15
+Australia,Perth,Groceries,Home Office,07/05/2023,32.59,5.89,1
+USA,Phoenix,Beauty,Consumer,14/03/2023,169.41,28.14,3
+Germany,Munich,Toys,Corporate,02/03/2023,156.94,24.42,2
+Australia,Sydney,Furniture,Corporate,22/04/2023,289.16,102.48,4
+India,Chennai,Groceries,Home Office,11/03/2023,1043.97,69.36,17
+Australia,Brisbane,Groceries,Home Office,03/12/2023,53.85,4.21,1
+USA,New York,Groceries,Home Office,12/08/2023,334.18,79.2,11
+USA,Phoenix,Furniture,Corporate,14/10/2023,891.54,318.5,13
+Germany,Dresden,Books,Consumer,26/10/2023,36.19,13.9,1
+Germany,Frankfurt,Toys,Consumer,06/07/2023,1185.12,399.36,16
+USA,San Diego,Beauty,Corporate,21/09/2023,40.44,3.51,3
+Germany,Berlin,Apparel,Home Office,30/07/2023,145.24,53.24,2
+Germany,Munich,Sports,Home Office,04/10/2023,41.02,10.01,7
+Australia,Canberra,Furniture,Home Office,12/12/2023,1344.14,432.46,14
+India,Chennai,Electronics,Consumer,30/10/2023,296.66,50.05,7
+India,Bangalore,Books,Corporate,23/03/2023,234.5,29,5
+Germany,Frankfurt,Furniture,Home Office,27/11/2023,1167.4,342.29,13
+USA,Chicago,Electronics,Corporate,20/09/2023,225.69,56.85,3
+Australia,Canberra,Sports,Consumer,30/12/2023,194.94,51.92,2
+India,Chennai,Beauty,Consumer,22/12/2023,681.91,68.4,19
+India,Bangalore,Toys,Corporate,09/10/2023,158.9,27.51,7
+Germany,Berlin,Groceries,Corporate,12/07/2023,343.91,121.45,7
+Australia,Melbourne,Electronics,Home Office,23/10/2023,350.7,44.4,6
+USA,New York,Apparel,Consumer,05/09/2023,1188.64,239.53,17
+Australia,Perth,Electronics,Corporate,14/04/2023,157.02,54.87,3
+India,Delhi,Groceries,Corporate,18/02/2023,1260.9,242.4,15
+USA,Phoenix,Sports,Home Office,06/08/2023,232.02,8.64,6
+India,Chennai,Furniture,Consumer,28/04/2023,110.4,15,10
+USA,Los Angeles,Beauty,Home Office,17/06/2023,196.7,39,5
+USA,New York,Sports,Home Office,19/09/2023,880.08,169.8,12
+Germany,Stuttgart,Books,Home Office,12/02/2023,47.8,16.8,2
+Australia,Adelaide,Sports,Home Office,03/11/2023,175.6,23.4,20
+India,Delhi,Toys,Consumer,05/12/2023,25.2,7.24,2
+India,Kolkata,Apparel,Consumer,22/02/2023,623.35,246.4,7
+Germany,Cologne,Electronics,Corporate,22/03/2023,222,12.72,4
+Australia,Sydney,Electronics,Consumer,04/03/2023,730.24,33.18,14
+USA,Houston,Sports,Home Office,13/12/2023,243.32,64,4
+Germany,Berlin,Electronics,Home Office,24/01/2023,286.3,8.1,5
+Australia,Perth,Apparel,Consumer,15/12/2023,191.88,58.56,2
+Australia,Brisbane,Apparel,Corporate,24/05/2023,434.06,142.67,11
+Germany,Dresden,Toys,Consumer,14/04/2023,645.66,50.04,9
+USA,New York,Sports,Consumer,07/07/2023,661.36,30.08,8
+USA,Phoenix,Electronics,Home Office,07/03/2023,110.66,24.42,11
+USA,Chicago,Beauty,Consumer,07/05/2023,121.52,18.4,8
+USA,Phoenix,Sports,Home Office,01/02/2023,755.85,283.65,15
+Australia,Melbourne,Furniture,Consumer,05/12/2023,1387.68,149.12,16
+USA,Los Angeles,Apparel,Home Office,12/02/2023,875.7,105.7,10
+Australia,Hobart,Books,Consumer,21/08/2023,799.59,63.36,11
+Germany,Hamburg,Beauty,Consumer,04/09/2023,41.63,2.24,1
+India,Bangalore,Electronics,Consumer,10/11/2023,216.36,32.46,3
+Australia,Sydney,Groceries,Consumer,26/03/2023,305.34,106.26,7
+India,Mumbai,Furniture,Consumer,27/01/2023,987.12,185.22,18
+Germany,Stuttgart,Furniture,Home Office,30/07/2023,64.08,17.24,4
+USA,Los Angeles,Beauty,Consumer,21/09/2023,474.54,86.46,11
+India,Bangalore,Beauty,Consumer,01/04/2023,95.98,26.98,2
+India,Pune,Electronics,Consumer,10/07/2023,47.13,9.66,3
+USA,Dallas,Electronics,Corporate,12/10/2023,141.24,33.12,12
+Germany,Munich,Groceries,Consumer,18/06/2023,544,26.8,20
+Germany,Hamburg,Furniture,Home Office,29/03/2023,190.92,16.56,12
+Germany,Munich,Beauty,Corporate,08/12/2023,184.17,52.71,7
+Australia,Hobart,Groceries,Home Office,23/03/2023,445.35,70.95,15
+India,Chennai,Books,Corporate,13/01/2023,1167.12,35.1,18
+USA,San Diego,Apparel,Home Office,09/04/2023,517.8,72.75,15
+USA,Houston,Electronics,Home Office,07/02/2023,86.22,28.98,6
+India,Kolkata,Beauty,Corporate,01/05/2023,170.4,45.6,16
+Germany,Berlin,Groceries,Consumer,20/05/2023,18.79,4.46,1
+India,Delhi,Toys,Consumer,23/01/2023,35.34,6.5,2
+USA,New York,Books,Corporate,17/02/2023,1261.41,224.77,19
+India,Pune,Furniture,Home Office,23/11/2023,95.34,20.16,14
+Australia,Adelaide,Groceries,Consumer,17/05/2023,794.39,73.15,19
+India,Chennai,Books,Consumer,08/11/2023,830.08,210.4,16
+Australia,Canberra,Electronics,Home Office,26/03/2023,289.65,114.3,5
+Germany,Berlin,Toys,Consumer,27/11/2023,1002.1,344.08,11
+USA,New York,Furniture,Home Office,06/01/2023,589.89,103.6,7
+India,Pune,Groceries,Consumer,14/10/2023,359.5,88.8,5
+Germany,Hamburg,Sports,Home Office,18/02/2023,128.06,46.7,2
+Australia,Melbourne,Sports,Home Office,07/05/2023,55.68,15.52,8
+Germany,Cologne,Electronics,Home Office,31/03/2023,70.91,24.9,1
+Australia,Sydney,Furniture,Consumer,25/11/2023,1005.8,167.4,20
+India,Kolkata,Electronics,Corporate,06/08/2023,412.25,22.78,17
+Germany,Cologne,Groceries,Corporate,27/05/2023,80.31,16.89,3
+Germany,Berlin,Sports,Consumer,07/01/2023,89.64,13.86,9
+Australia,Perth,Beauty,Corporate,04/01/2023,158.48,48.36,2
+USA,Dallas,Sports,Corporate,01/07/2023,279.12,30.54,6
+USA,Dallas,Toys,Corporate,09/10/2023,1412.28,214.02,18
+USA,Dallas,Apparel,Consumer,11/09/2023,471.01,76.38,19
+Germany,Berlin,Groceries,Home Office,28/12/2023,336.82,99.33,11
+USA,Phoenix,Furniture,Home Office,07/01/2023,256.16,52.48,8
+Australia,Adelaide,Sports,Consumer,10/03/2023,265.25,12.2,5
+USA,Chicago,Furniture,Corporate,06/05/2023,172.08,32.43,3
+USA,San Diego,Beauty,Corporate,22/08/2023,272.85,50,5
+USA,Phoenix,Sports,Consumer,15/04/2023,62.86,14.41,1
+India,Bangalore,Toys,Consumer,13/07/2023,110.34,41.94,18
+Germany,Hamburg,Groceries,Consumer,23/05/2023,82.62,21.15,9
+Australia,Sydney,Apparel,Corporate,30/01/2023,455.39,26.39,13
+Germany,Dresden,Groceries,Corporate,25/01/2023,461.2,143.5,5
+USA,Los Angeles,Toys,Consumer,06/02/2023,1615.95,159.6,19
+India,Kolkata,Sports,Consumer,06/05/2023,1443.04,567.52,16
+Australia,Canberra,Furniture,Consumer,10/01/2023,938,115.36,14
+Germany,Stuttgart,Books,Home Office,22/08/2023,436.98,122.28,6
+Australia,Adelaide,Books,Corporate,26/04/2023,207,71.15,5
+Australia,Canberra,Toys,Home Office,16/03/2023,57.4,6.45,5
+Germany,Stuttgart,Apparel,Corporate,18/07/2023,209.86,17.08,7
+India,Bangalore,Furniture,Corporate,08/05/2023,1767.6,168.6,20
+India,Pune,Furniture,Home Office,24/08/2023,857.9,264.1,10
+Australia,Canberra,Furniture,Consumer,22/07/2023,379.5,49.65,5
+Germany,Hamburg,Sports,Corporate,10/09/2023,1458.6,17.34,17
+USA,New York,Toys,Home Office,11/01/2023,206.1,39.6,10
+Germany,Cologne,Electronics,Consumer,01/11/2023,1218.28,439.88,14
+India,Bangalore,Toys,Home Office,24/06/2023,104.88,25.92,4
+India,Pune,Sports,Home Office,26/02/2023,537.36,25.44,12
+Germany,Frankfurt,Apparel,Corporate,23/12/2023,1452.48,351.56,17
+Australia,Brisbane,Books,Consumer,22/08/2023,258.2,11.8,5
+India,Mumbai,Electronics,Consumer,03/12/2023,964.68,141.72,12
+USA,Dallas,Apparel,Corporate,02/01/2023,1196.44,393.96,14
+India,Chennai,Toys,Home Office,30/03/2023,792.81,14.94,9
+Australia,Adelaide,Furniture,Consumer,01/12/2023,436.03,110.81,7
+USA,Chicago,Apparel,Corporate,16/11/2023,1272.24,442.32,19
+Australia,Brisbane,Sports,Home Office,27/03/2023,160.25,39.75,5
+USA,Chicago,Beauty,Corporate,04/04/2023,604.08,145.8,18
+Australia,Hobart,Toys,Corporate,27/10/2023,1194.48,37.08,18
+Germany,Frankfurt,Beauty,Consumer,19/10/2023,452.55,20.75,5
+USA,San Diego,Groceries,Consumer,22/11/2023,22.15,1.11,1
+Germany,Dresden,Toys,Corporate,09/11/2023,1010.35,116.38,11
+India,Bangalore,Toys,Home Office,28/10/2023,480.6,44,10
+India,Chennai,Toys,Corporate,07/10/2023,1556.29,257.45,19
+Germany,Berlin,Beauty,Consumer,05/09/2023,387.84,79.08,4
+USA,Houston,Sports,Consumer,20/08/2023,581.22,144.72,18
+Australia,Perth,Groceries,Corporate,11/04/2023,269.65,63.9,5
+Germany,Munich,Electronics,Consumer,19/06/2023,1380.2,37,20
+India,Chennai,Toys,Home Office,07/03/2023,353.34,101.53,13
+USA,Dallas,Apparel,Corporate,10/05/2023,471.6,110.4,5
+India,Bangalore,Toys,Corporate,01/08/2023,255.96,32.16,12
+Australia,Brisbane,Apparel,Consumer,02/07/2023,1159.57,192.28,19
+USA,Los Angeles,Furniture,Home Office,22/05/2023,87.57,12.19,1
+USA,Los Angeles,Toys,Consumer,09/07/2023,368.95,104.35,5
+USA,Dallas,Apparel,Corporate,05/01/2023,534.72,141.84,12
+Germany,Cologne,Books,Home Office,18/04/2023,1671.05,452.58,19
+USA,Dallas,Groceries,Consumer,16/10/2023,536.16,149.44,16
+Germany,Cologne,Furniture,Consumer,05/05/2023,1476.32,272.64,16
+Germany,Stuttgart,Beauty,Consumer,02/04/2023,860.9,158.7,10
+Australia,Brisbane,Groceries,Corporate,17/06/2023,364.68,96.3,9
+USA,Dallas,Apparel,Consumer,27/12/2023,281.27,80.96,11
+Australia,Perth,Toys,Corporate,15/02/2023,1418,366.8,20
+USA,San Diego,Books,Consumer,29/10/2023,71.05,6.05,1
+Germany,Munich,Apparel,Home Office,04/03/2023,90.6,26.8,4
+USA,Houston,Books,Consumer,25/10/2023,312.4,23.1,11
+Australia,Hobart,Groceries,Corporate,01/02/2023,1148.74,459.04,19
+Germany,Frankfurt,Books,Corporate,12/08/2023,668.64,87.84,16
+Australia,Brisbane,Toys,Consumer,13/02/2023,163.2,25.6,16
+USA,Houston,Electronics,Consumer,01/10/2023,1372.37,341.81,19
+Australia,Adelaide,Beauty,Consumer,25/02/2023,309.85,14.15,5
+Australia,Sydney,Sports,Corporate,19/02/2023,701.12,168.16,16
+Australia,Hobart,Groceries,Home Office,28/09/2023,872.37,233.82,9
+USA,Los Angeles,Electronics,Consumer,18/04/2023,559.71,168.3,9
+USA,New York,Furniture,Consumer,20/12/2023,1137.48,223.92,12
+Australia,Melbourne,Apparel,Corporate,30/03/2023,28.47,6.81,3
+USA,Phoenix,Groceries,Home Office,13/02/2023,64.62,15.84,9
+Australia,Adelaide,Books,Corporate,06/01/2023,176.94,23.04,9
+Germany,Cologne,Electronics,Corporate,03/09/2023,506.73,183.92,19
+USA,New York,Groceries,Consumer,26/03/2023,78.6,23.55,15
+Germany,Hamburg,Groceries,Home Office,05/08/2023,179.7,15.27,3
+Australia,Canberra,Apparel,Home Office,04/03/2023,1288.82,150.8,13
+USA,Los Angeles,Toys,Home Office,22/10/2023,102.66,14.34,6
+Australia,Adelaide,Electronics,Consumer,28/10/2023,125.9,19.16,2
+India,Chennai,Toys,Consumer,19/02/2023,62.36,5.78,2
+USA,Houston,Books,Corporate,10/05/2023,247.9,74.1,5
+India,Delhi,Electronics,Corporate,30/10/2023,112.96,15.4,4
+USA,Dallas,Sports,Corporate,16/02/2023,1117.44,419.94,18
+USA,Dallas,Toys,Home Office,06/06/2023,184.72,24.16,4
+USA,Houston,Toys,Home Office,19/10/2023,165.45,26.67,3
+India,Chennai,Toys,Home Office,18/02/2023,445,55.45,5
+USA,Houston,Furniture,Corporate,02/01/2023,122.28,12.72,12
+Germany,Hamburg,Furniture,Consumer,02/06/2023,703.78,230.23,11
+USA,Chicago,Groceries,Corporate,13/10/2023,216.63,25.2,9
+India,Mumbai,Apparel,Corporate,12/06/2023,59,5.45,5
+USA,New York,Apparel,Corporate,03/12/2023,101.52,24.54,6
+Australia,Adelaide,Toys,Corporate,13/12/2023,72.93,12.27,3
+India,Pune,Furniture,Home Office,26/05/2023,27.84,2.64,1
+India,Pune,Sports,Consumer,29/05/2023,439.18,159.04,7
+Germany,Stuttgart,Beauty,Corporate,22/03/2023,171.44,20.72,4
+India,Bangalore,Toys,Home Office,04/11/2023,481.74,180,6
+Germany,Dresden,Electronics,Corporate,15/07/2023,174.24,44.28,12
+Germany,Dresden,Electronics,Consumer,20/11/2023,325.82,79.75,11
+India,Delhi,Apparel,Home Office,18/08/2023,146.64,33.6,12
+Germany,Stuttgart,Toys,Corporate,16/03/2023,500.52,140.16,12
+Australia,Brisbane,Books,Consumer,25/05/2023,120.27,38.37,3
+USA,Dallas,Furniture,Consumer,27/02/2023,1157.66,294.14,14
+USA,New York,Groceries,Consumer,13/09/2023,404.48,110.32,8
+USA,Los Angeles,Toys,Consumer,08/11/2023,942.5,365.3,13
+Germany,Munich,Beauty,Corporate,22/06/2023,239.76,77.6,8
+USA,Los Angeles,Toys,Consumer,21/04/2023,85.62,20.3,2
+USA,Chicago,Apparel,Home Office,27/07/2023,569.52,163.8,6
+USA,Los Angeles,Groceries,Corporate,28/01/2023,327.2,127.15,5
+Australia,Adelaide,Sports,Consumer,13/05/2023,614.52,153.24,12
+Australia,Brisbane,Groceries,Corporate,30/06/2023,61.08,9.83,1
+Australia,Perth,Books,Corporate,23/07/2023,250.95,97.5,15
+Germany,Stuttgart,Sports,Consumer,22/01/2023,238.16,31.12,4
+India,Kolkata,Electronics,Consumer,05/09/2023,55.26,18.18,6
+Australia,Adelaide,Books,Home Office,12/08/2023,139.4,28.85,5
+Australia,Perth,Sports,Consumer,24/02/2023,941.76,251.84,16
+USA,Chicago,Sports,Consumer,28/03/2023,617.5,98.42,19
+Germany,Stuttgart,Beauty,Home Office,22/09/2023,283.2,45.12,8
+India,Chennai,Groceries,Home Office,25/04/2023,1315.8,523.43,17
+USA,Los Angeles,Toys,Home Office,15/01/2023,161.82,29.52,3
+India,Kolkata,Furniture,Corporate,06/11/2023,402,135.2,20
+India,Hyderabad,Beauty,Consumer,24/07/2023,1273.28,367.04,16
+Australia,Canberra,Toys,Home Office,27/03/2023,401.38,73.5,14
+USA,San Diego,Books,Corporate,24/06/2023,71.28,14.17,1
+Germany,Hamburg,Electronics,Consumer,13/04/2023,33.03,5.22,3
+Australia,Adelaide,Furniture,Consumer,10/05/2023,78.26,12.77,1
+India,Chennai,Books,Corporate,04/07/2023,425.1,50.25,15
+Australia,Melbourne,Books,Home Office,30/08/2023,314.28,22.8,6
+Australia,Adelaide,Sports,Home Office,04/06/2023,39.69,13.3,1
+India,Mumbai,Electronics,Consumer,20/01/2023,301.92,34.96,8
+USA,Phoenix,Groceries,Consumer,10/01/2023,354.96,30.84,4
+Australia,Canberra,Furniture,Consumer,21/01/2023,33.69,2.13,1
+Australia,Perth,Sports,Corporate,17/02/2023,17.16,6.15,3
+Australia,Adelaide,Furniture,Home Office,16/09/2023,1292.64,472.96,16
+USA,San Diego,Toys,Corporate,04/02/2023,1371,137.4,15
+India,Kolkata,Beauty,Corporate,25/01/2023,172.04,39.48,4
+USA,Dallas,Electronics,Consumer,10/04/2023,57.43,11.63,1
+USA,Dallas,Beauty,Corporate,25/09/2023,560.52,61.32,12
+Australia,Hobart,Toys,Corporate,20/09/2023,261.84,71.88,3
+USA,Phoenix,Toys,Consumer,20/07/2023,244.92,39.16,4
+Australia,Melbourne,Groceries,Consumer,16/03/2023,36.42,8.82,6
+Germany,Munich,Books,Consumer,07/04/2023,766.56,71.76,12
+Germany,Berlin,Groceries,Home Office,28/10/2023,486.12,93.96,12
+Australia,Hobart,Beauty,Consumer,15/08/2023,194.76,37,4
+Germany,Cologne,Sports,Corporate,18/02/2023,167.4,41.55,5
+Australia,Melbourne,Beauty,Corporate,25/05/2023,153.27,4.26,3
+India,Pune,Books,Home Office,08/05/2023,297.9,101.7,18
+India,Hyderabad,Groceries,Corporate,03/03/2023,1951,386.8,20
+Australia,Adelaide,Books,Corporate,29/05/2023,70,25.97,7
+Australia,Brisbane,Beauty,Consumer,27/08/2023,1744.56,646.02,18
+India,Pune,Beauty,Home Office,31/03/2023,1295.25,329.85,15
+Australia,Sydney,Groceries,Corporate,23/03/2023,684.6,199.2,10
+Australia,Canberra,Books,Home Office,04/09/2023,589.2,21.68,8
+Australia,Sydney,Furniture,Home Office,10/01/2023,169.2,12.87,9
+USA,Houston,Beauty,Home Office,15/06/2023,395.52,129.24,6
+USA,Phoenix,Furniture,Consumer,19/01/2023,789.26,164.92,19
+Australia,Canberra,Furniture,Home Office,21/02/2023,200.52,56.58,3
+Germany,Frankfurt,Toys,Consumer,23/05/2023,276.72,93.96,12
+India,Hyderabad,Toys,Consumer,27/01/2023,191.7,74.52,3
+India,Pune,Toys,Home Office,02/12/2023,710.4,16.56,12
+India,Hyderabad,Books,Consumer,24/07/2023,558.88,23.2,8
+USA,Chicago,Beauty,Consumer,08/05/2023,817.2,245.52,18
+USA,San Diego,Sports,Consumer,23/06/2023,128.45,25.55,7
+Australia,Melbourne,Books,Corporate,11/12/2023,463.23,94.86,9
+India,Chennai,Furniture,Corporate,28/06/2023,1531.19,43.86,17
+India,Pune,Toys,Home Office,05/12/2023,522.06,144.48,7
+India,Mumbai,Sports,Home Office,27/05/2023,307.04,75.28,8
+Germany,Berlin,Toys,Consumer,20/04/2023,458.56,173.44,16
+Australia,Perth,Books,Corporate,14/04/2023,218.55,36.12,3
+USA,Houston,Furniture,Home Office,01/01/2023,817.2,220.2,12
+Germany,Frankfurt,Beauty,Corporate,26/02/2023,1027.52,146.9,13
+Germany,Berlin,Furniture,Corporate,31/01/2023,341.82,89.01,9
+Germany,Stuttgart,Furniture,Home Office,14/02/2023,748.95,89.55,15
+India,Hyderabad,Sports,Corporate,02/03/2023,572.3,214.1,10
+India,Mumbai,Apparel,Home Office,29/01/2023,85.36,9.2,4
+Australia,Hobart,Beauty,Corporate,28/02/2023,630.6,105.45,15
+India,Chennai,Groceries,Corporate,23/04/2023,1220.75,114.38,19
+USA,San Diego,Beauty,Consumer,08/01/2023,360.08,120.61,7
+Australia,Adelaide,Apparel,Home Office,28/01/2023,1810.8,386.4,20
+Australia,Adelaide,Electronics,Consumer,07/01/2023,476.19,109.89,11
+Germany,Cologne,Apparel,Home Office,06/08/2023,347.1,130.7,10
+Germany,Frankfurt,Electronics,Corporate,15/09/2023,41.1,8.76,6
+USA,Los Angeles,Electronics,Corporate,07/10/2023,33.66,8.1,6
+USA,Houston,Apparel,Consumer,31/01/2023,451.62,138.97,13
+Germany,Dresden,Sports,Consumer,11/10/2023,592.2,57.4,14
+Germany,Hamburg,Toys,Consumer,22/02/2023,177.63,36.45,3
+Australia,Melbourne,Apparel,Consumer,27/07/2023,1317.82,257.46,14
+USA,New York,Furniture,Corporate,06/05/2023,1172,154.72,16
+Germany,Dresden,Books,Consumer,17/10/2023,523.12,67.6,13
+India,Chennai,Beauty,Consumer,13/07/2023,785.25,65.55,15
+India,Hyderabad,Apparel,Corporate,17/02/2023,991.62,48.78,18
+India,Chennai,Furniture,Home Office,13/11/2023,127.82,26.46,7
+USA,Los Angeles,Toys,Consumer,28/10/2023,564.48,30.8,8
+Australia,Melbourne,Beauty,Consumer,31/10/2023,1678.92,372.3,17
+Australia,Brisbane,Groceries,Home Office,29/06/2023,253.2,99.04,8
+Australia,Canberra,Toys,Home Office,23/01/2023,1555.38,513.18,18
+Australia,Canberra,Groceries,Corporate,23/11/2023,220.02,79.68,6
+Germany,Berlin,Groceries,Consumer,13/08/2023,933.4,193.44,13
+Australia,Melbourne,Furniture,Consumer,25/03/2023,38.34,12.3,2
+Australia,Adelaide,Beauty,Corporate,03/06/2023,566.95,95.03,17
+Australia,Perth,Groceries,Corporate,13/04/2023,165.08,32.8,4
+India,Bangalore,Beauty,Corporate,10/02/2023,311.01,118.16,7
+Australia,Brisbane,Groceries,Home Office,23/06/2023,695.94,113.54,7
+India,Hyderabad,Toys,Consumer,14/11/2023,224.74,57.63,17
+India,Pune,Furniture,Home Office,09/05/2023,423.72,45.98,11
+USA,Los Angeles,Electronics,Consumer,04/04/2023,161.9,10.16,2
+Australia,Brisbane,Furniture,Consumer,29/07/2023,1337.41,446.88,19
+Germany,Cologne,Books,Consumer,05/12/2023,44.22,11.68,1
+Germany,Frankfurt,Electronics,Home Office,03/06/2023,218.88,8.72,8
+USA,New York,Sports,Home Office,10/11/2023,523.67,129.92,7
+USA,New York,Toys,Home Office,28/03/2023,27.56,6.48,4
+Germany,Cologne,Toys,Home Office,12/04/2023,516.2,84,20
+Australia,Adelaide,Sports,Home Office,03/04/2023,451.84,54.24,8
+Germany,Dresden,Beauty,Home Office,23/11/2023,1193.04,358.92,18
+USA,Houston,Toys,Home Office,10/02/2023,488.16,36.9,6
+Australia,Hobart,Toys,Home Office,05/12/2023,374.04,141.84,6
+Germany,Berlin,Toys,Home Office,23/07/2023,228.24,17.82,9
+USA,Phoenix,Furniture,Corporate,01/09/2023,83.94,7.92,3
+Germany,Hamburg,Toys,Consumer,12/10/2023,940.05,162.75,15
+Australia,Hobart,Groceries,Home Office,13/06/2023,246.6,53.1,10
+India,Bangalore,Sports,Consumer,16/11/2023,1767.19,616.55,19
+India,Kolkata,Beauty,Home Office,25/06/2023,190.8,37.6,10
+India,Mumbai,Sports,Home Office,11/04/2023,135.18,21.24,18
+Germany,Stuttgart,Beauty,Corporate,07/10/2023,544.46,217,14
+India,Bangalore,Beauty,Corporate,01/02/2023,190.2,73,4
+India,Kolkata,Books,Corporate,25/08/2023,579.04,196.96,8
+USA,San Diego,Apparel,Corporate,06/07/2023,129.58,37.81,19
+USA,New York,Beauty,Consumer,04/08/2023,198.4,31.8,20
+India,Pune,Groceries,Home Office,30/11/2023,597.33,54.54,9
+Germany,Dresden,Apparel,Consumer,11/05/2023,304.85,106.5,5
+Australia,Canberra,Books,Consumer,10/05/2023,872.28,131.76,18
+USA,Chicago,Books,Home Office,18/02/2023,204,31.88,4
+Germany,Frankfurt,Sports,Corporate,04/03/2023,329.65,114.95,5
+Germany,Dresden,Books,Home Office,15/02/2023,198.75,72.2,5
+India,Pune,Toys,Home Office,22/09/2023,400.07,57.31,11
+India,Delhi,Books,Corporate,13/07/2023,196.86,32.98,2
+India,Chennai,Apparel,Consumer,12/10/2023,414.09,72,9
+India,Bangalore,Sports,Corporate,27/03/2023,794.7,211.23,9
+Germany,Frankfurt,Toys,Consumer,27/05/2023,193.86,31.5,18
+USA,San Diego,Sports,Corporate,08/12/2023,758.55,276.12,13
+India,Mumbai,Sports,Corporate,13/07/2023,69.45,8.35,5
+Australia,Sydney,Books,Home Office,26/12/2023,997.38,320.04,18
+USA,New York,Toys,Home Office,18/06/2023,391.86,146.52,9
+Australia,Sydney,Toys,Consumer,18/12/2023,464.7,96.9,6
+Australia,Brisbane,Apparel,Corporate,27/05/2023,408.24,97.56,18
+Australia,Melbourne,Toys,Corporate,17/01/2023,218.47,7.56,7
+Germany,Berlin,Furniture,Consumer,24/11/2023,524.64,202.4,8
+USA,Dallas,Apparel,Home Office,08/04/2023,448.32,114.72,16
+Germany,Berlin,Books,Home Office,18/08/2023,550.56,204.6,12
+Germany,Stuttgart,Books,Consumer,04/06/2023,383.25,53.55,5
+India,Bangalore,Apparel,Consumer,01/09/2023,1274.32,238.85,17
+USA,Houston,Toys,Corporate,08/08/2023,554.99,204.63,19
+USA,Los Angeles,Apparel,Corporate,01/12/2023,298.83,40.98,3
+Australia,Melbourne,Furniture,Consumer,30/03/2023,63.6,24.16,8
+Germany,Cologne,Toys,Home Office,19/06/2023,57.65,9.5,5
+Germany,Frankfurt,Groceries,Consumer,17/10/2023,134.2,43.5,10
+India,Hyderabad,Electronics,Consumer,18/07/2023,768.12,29.76,12
+Germany,Frankfurt,Beauty,Consumer,14/09/2023,636.56,178.72,8
+Germany,Berlin,Beauty,Consumer,05/05/2023,294.84,74.88,6
+Germany,Hamburg,Toys,Consumer,15/11/2023,496.1,92.2,10
+India,Hyderabad,Electronics,Corporate,13/10/2023,111.16,22.33,7
+Australia,Hobart,Sports,Corporate,24/11/2023,52.44,4.34,1
+India,Kolkata,Electronics,Home Office,17/11/2023,794.79,143.19,9
+Germany,Stuttgart,Electronics,Consumer,02/11/2023,513.74,79.56,17
+Australia,Adelaide,Beauty,Home Office,21/04/2023,807.6,17.16,12
+Germany,Hamburg,Groceries,Consumer,10/05/2023,299.22,46.95,3
+Australia,Canberra,Toys,Home Office,13/06/2023,17.69,5.83,1
+Germany,Dresden,Furniture,Home Office,03/04/2023,1182.36,108.72,12
+Germany,Berlin,Books,Consumer,02/01/2023,807.1,105.42,14
+Germany,Hamburg,Furniture,Home Office,19/02/2023,684.48,272,16
+India,Bangalore,Furniture,Corporate,11/03/2023,1475.68,522.24,16
+USA,Phoenix,Sports,Home Office,25/08/2023,272.9,13.55,5
+India,Chennai,Sports,Consumer,25/07/2023,862.6,295.83,19
+USA,Phoenix,Apparel,Consumer,12/12/2023,720.63,130.68,9
+Australia,Adelaide,Electronics,Home Office,20/06/2023,370.71,25.65,9
+USA,Houston,Furniture,Consumer,19/12/2023,1804.43,389.69,19
+USA,New York,Furniture,Consumer,22/07/2023,273.57,15.4,11
+USA,Phoenix,Beauty,Consumer,17/09/2023,716.38,28.14,14
+India,Kolkata,Furniture,Home Office,30/03/2023,498.78,140.13,9
+Germany,Frankfurt,Furniture,Home Office,02/10/2023,140.56,26,8
+Australia,Perth,Apparel,Corporate,25/09/2023,274.95,68.67,9
+Germany,Dresden,Groceries,Home Office,01/01/2023,21.52,6.68,2
+India,Mumbai,Furniture,Home Office,21/10/2023,664.3,105.63,7
+Australia,Canberra,Sports,Home Office,14/08/2023,1939.8,71.8,20
+Australia,Melbourne,Electronics,Consumer,09/11/2023,209.4,76.8,4
+Australia,Brisbane,Electronics,Home Office,29/04/2023,1596.76,495.71,19
+India,Pune,Apparel,Consumer,26/08/2023,688.59,125.58,7
+USA,Houston,Books,Consumer,08/04/2023,372.55,13.5,5
+Germany,Stuttgart,Toys,Corporate,27/01/2023,354.54,121.6,19
+USA,Dallas,Sports,Corporate,22/11/2023,453.3,24.1,5
+USA,San Diego,Beauty,Corporate,04/04/2023,795.4,198.1,10
+Australia,Perth,Electronics,Corporate,06/02/2023,660.45,135.1,7
+India,Bangalore,Groceries,Home Office,27/10/2023,67.76,11.04,8
+Germany,Stuttgart,Electronics,Home Office,31/07/2023,1181.18,92.96,14
+USA,Los Angeles,Electronics,Corporate,05/07/2023,286.44,21.42,3
+USA,Chicago,Sports,Home Office,24/05/2023,1084.14,270,18
+USA,Phoenix,Sports,Consumer,28/08/2023,1165.12,31.2,16
+Australia,Hobart,Apparel,Corporate,04/07/2023,137.1,25.35,5
+USA,Los Angeles,Beauty,Consumer,18/07/2023,56.08,7.72,4
+India,Chennai,Electronics,Home Office,06/10/2023,524.16,69.42,6
+India,Kolkata,Books,Consumer,09/10/2023,220.9,58.8,5
+USA,New York,Beauty,Home Office,27/10/2023,124.76,44.64,4
+Australia,Sydney,Sports,Consumer,09/06/2023,248.08,14.63,7
+Germany,Hamburg,Electronics,Home Office,13/10/2023,55.44,22.1,2
+Germany,Stuttgart,Toys,Corporate,17/09/2023,54.52,14.32,2
+USA,Chicago,Books,Consumer,09/08/2023,82.14,31.86,6
+Australia,Perth,Groceries,Consumer,12/09/2023,1262.52,114.48,18
+USA,Phoenix,Apparel,Home Office,09/10/2023,526.8,130.08,12
+Germany,Hamburg,Beauty,Consumer,02/06/2023,793,229.1,10
+Germany,Dresden,Electronics,Home Office,11/02/2023,681.01,53.46,11
+USA,New York,Groceries,Corporate,27/03/2023,655.2,250.4,16
+Australia,Melbourne,Books,Home Office,04/01/2023,143.36,25.48,14
+Australia,Perth,Toys,Consumer,28/07/2023,251.44,35.84,14
+Australia,Perth,Groceries,Consumer,20/11/2023,343.08,86.76,18
+USA,New York,Beauty,Consumer,05/08/2023,739.52,185.52,8
+Australia,Hobart,Books,Home Office,08/04/2023,793.92,194.08,16
+USA,San Diego,Beauty,Corporate,22/02/2023,142.08,32.64,12
+Germany,Hamburg,Apparel,Home Office,05/05/2023,15.27,2.83,1
+Germany,Cologne,Furniture,Consumer,05/04/2023,814.71,305.89,13
+Australia,Melbourne,Toys,Home Office,28/11/2023,445.84,158,8
+Germany,Berlin,Apparel,Consumer,22/02/2023,982.1,142.24,14
+USA,Chicago,Toys,Home Office,16/07/2023,762.12,94.5,18
+USA,Chicago,Sports,Consumer,06/07/2023,43.7,16.1,5
+India,Chennai,Furniture,Home Office,08/04/2023,463.3,71.55,5
+Australia,Melbourne,Groceries,Consumer,15/09/2023,648.5,126.9,10
+USA,Chicago,Furniture,Corporate,18/02/2023,267.54,71.82,7
+Germany,Hamburg,Groceries,Consumer,03/08/2023,515.83,118.86,7
+India,Chennai,Sports,Corporate,30/12/2023,265.14,105.36,6
+USA,Los Angeles,Furniture,Home Office,14/09/2023,84.99,23.92,1
+Germany,Cologne,Toys,Corporate,06/09/2023,294,21.44,4
+India,Bangalore,Books,Home Office,18/05/2023,144.92,55.72,4
+India,Bangalore,Apparel,Home Office,18/10/2023,109.99,23.97,17
+USA,Chicago,Groceries,Home Office,02/02/2023,157.59,41.67,9
+India,Chennai,Groceries,Corporate,05/05/2023,308.8,120.05,5
+Australia,Perth,Electronics,Consumer,18/11/2023,417.62,39.48,14
+India,Pune,Beauty,Home Office,10/07/2023,840,22.35,15
+USA,San Diego,Beauty,Consumer,03/09/2023,83.44,18.9,7
+Germany,Frankfurt,Electronics,Consumer,15/08/2023,264.72,78.6,4
+Australia,Hobart,Sports,Home Office,21/10/2023,768.06,131.76,18
+Australia,Melbourne,Beauty,Consumer,29/01/2023,608.4,48.96,18
+USA,New York,Groceries,Home Office,19/01/2023,107.52,37.77,3
+India,Mumbai,Furniture,Corporate,20/07/2023,1007.4,352.65,15
+India,Kolkata,Books,Home Office,29/12/2023,719.46,97.56,18
+USA,Houston,Toys,Corporate,11/04/2023,65.08,10.71,1
+Australia,Hobart,Beauty,Corporate,12/02/2023,73.84,7,4
+India,Pune,Groceries,Consumer,30/11/2023,49.16,7.52,4
+Germany,Stuttgart,Books,Corporate,27/02/2023,697.7,201.7,10
+Germany,Hamburg,Sports,Corporate,17/06/2023,300.05,63.85,5
+USA,Houston,Sports,Consumer,22/01/2023,431.75,166.7,5
+India,Chennai,Toys,Corporate,02/06/2023,616.4,72.6,10
+USA,Phoenix,Apparel,Home Office,04/10/2023,293.76,27.27,9
+India,Hyderabad,Books,Consumer,29/09/2023,217.4,51.1,10
+Germany,Berlin,Beauty,Corporate,20/06/2023,858.62,122.64,14
+USA,Houston,Groceries,Home Office,17/05/2023,64.4,3.74,2
+India,Kolkata,Apparel,Home Office,15/05/2023,231.2,68.52,4
+Germany,Berlin,Groceries,Corporate,01/09/2023,1330.2,527.04,18
+USA,Houston,Beauty,Consumer,13/04/2023,947.3,204.6,10
+Germany,Frankfurt,Beauty,Corporate,12/08/2023,1019.15,225.94,11
+Australia,Hobart,Apparel,Home Office,16/04/2023,302.06,108.46,11
+Australia,Hobart,Toys,Corporate,07/04/2023,23,6.11,1
+India,Chennai,Toys,Corporate,27/05/2023,775.18,128.94,14
+Australia,Canberra,Sports,Corporate,26/05/2023,139.32,32.28,6
+Germany,Berlin,Furniture,Corporate,24/04/2023,117.67,32.97,7
+Australia,Melbourne,Books,Corporate,18/09/2023,13.6,3.68,1
+USA,Los Angeles,Sports,Home Office,19/02/2023,573.43,89.05,13
+India,Delhi,Beauty,Home Office,15/02/2023,53.68,20.56,4
+Germany,Stuttgart,Sports,Consumer,20/05/2023,808.65,179.85,15
+Australia,Brisbane,Electronics,Corporate,01/04/2023,263.96,102.72,4
+Australia,Canberra,Groceries,Home Office,21/03/2023,583.8,51.1,10
+India,Kolkata,Toys,Home Office,30/08/2023,1644.07,219.3,17
+India,Hyderabad,Apparel,Consumer,07/04/2023,1532.32,39.04,16
+USA,Dallas,Beauty,Corporate,14/09/2023,982.08,92.96,16
+Germany,Munich,Furniture,Corporate,22/12/2023,983.5,40.3,10
+Australia,Canberra,Toys,Home Office,17/06/2023,336.2,122.6,20
+Germany,Munich,Books,Consumer,19/01/2023,253.2,70.05,5
+India,Bangalore,Apparel,Consumer,22/06/2023,219.23,58.85,11
+Germany,Hamburg,Groceries,Home Office,15/03/2023,314.9,20.3,5
+USA,Los Angeles,Books,Home Office,09/10/2023,292.95,45.36,9
+USA,Houston,Books,Home Office,07/10/2023,269.5,77.5,10
+India,Pune,Electronics,Corporate,18/05/2023,723.3,276,10
+Germany,Dresden,Sports,Consumer,25/06/2023,614.04,182.16,12
+Germany,Dresden,Electronics,Consumer,19/10/2023,689,246.8,10
+India,Pune,Toys,Home Office,16/09/2023,427.15,19.5,5
+USA,New York,Groceries,Home Office,14/03/2023,113.1,40.62,6
+Germany,Hamburg,Groceries,Corporate,17/03/2023,227.22,56,14
+USA,Chicago,Electronics,Home Office,16/11/2023,1002.4,275.2,20
+Germany,Frankfurt,Groceries,Consumer,17/07/2023,596.85,201.15,15
+Germany,Munich,Apparel,Corporate,09/08/2023,19.37,1.2,1
+India,Pune,Sports,Home Office,13/10/2023,588.71,116.28,17
+USA,Los Angeles,Sports,Corporate,21/01/2023,19.16,5.47,1
+Germany,Cologne,Beauty,Corporate,12/01/2023,1619,467.2,20
+India,Pune,Sports,Consumer,21/05/2023,306.85,52.63,19
+USA,Phoenix,Electronics,Corporate,02/09/2023,380.5,28.4,5
+Australia,Canberra,Books,Corporate,15/04/2023,129.24,15.24,3
+Germany,Frankfurt,Sports,Home Office,09/06/2023,69.72,24.48,12
+Australia,Brisbane,Toys,Corporate,23/03/2023,1342.92,374.3,19
+Germany,Hamburg,Groceries,Home Office,08/10/2023,755.2,280.32,16
+USA,New York,Apparel,Consumer,10/03/2023,363.06,48.6,18
+India,Kolkata,Toys,Corporate,23/11/2023,328.2,23.1,15
+Germany,Dresden,Furniture,Corporate,30/04/2023,637.9,31.8,10
+USA,Dallas,Furniture,Corporate,16/01/2023,1367.7,447.75,15
+Germany,Frankfurt,Groceries,Home Office,07/06/2023,427.57,137.61,11
+Australia,Brisbane,Sports,Consumer,08/08/2023,679.77,63.31,13
+India,Hyderabad,Beauty,Corporate,12/04/2023,89.4,10.51,1
+Germany,Frankfurt,Furniture,Corporate,09/05/2023,338.96,105.68,8
+Australia,Melbourne,Sports,Consumer,25/10/2023,412.44,98.14,14
+Germany,Frankfurt,Furniture,Consumer,05/02/2023,112.56,19,4
+Germany,Berlin,Toys,Corporate,28/06/2023,261.18,15.3,6
+USA,Phoenix,Electronics,Corporate,14/07/2023,884.28,276.96,12
+Australia,Melbourne,Beauty,Corporate,28/12/2023,848.51,77.87,13
+USA,Dallas,Sports,Corporate,21/06/2023,774.9,205.02,9
+USA,Phoenix,Sports,Corporate,04/06/2023,1507.86,498.78,18
+Australia,Melbourne,Books,Home Office,09/08/2023,609.1,203,10
+Germany,Stuttgart,Beauty,Consumer,27/05/2023,1404.8,245.6,20
+USA,Chicago,Toys,Corporate,03/12/2023,105.04,25.12,4
+Australia,Sydney,Apparel,Consumer,28/03/2023,264.04,50.26,7
+USA,Phoenix,Books,Corporate,09/06/2023,385.2,87.04,4
+Germany,Cologne,Toys,Consumer,12/12/2023,212,34.4,16
+USA,New York,Books,Consumer,14/10/2023,286.32,72.28,4
+Australia,Perth,Books,Consumer,13/02/2023,84.4,24.48,4
+India,Chennai,Beauty,Consumer,25/04/2023,152.74,54.42,2
+Germany,Cologne,Toys,Home Office,11/01/2023,147.24,7.68,6
+Australia,Perth,Sports,Home Office,12/03/2023,455.45,87.55,5
+Germany,Munich,Apparel,Home Office,10/12/2023,309.28,74.24,8
+USA,Los Angeles,Toys,Corporate,20/08/2023,934.02,99.36,18
+USA,Phoenix,Sports,Consumer,29/06/2023,409.92,140.56,14
+USA,New York,Furniture,Home Office,16/10/2023,290.4,83.4,20
+Germany,Munich,Beauty,Home Office,21/12/2023,1066.65,257.01,13
+USA,Los Angeles,Books,Corporate,14/08/2023,1208.06,143.22,14
+Australia,Brisbane,Furniture,Consumer,16/06/2023,60.72,9.42,6
+Australia,Perth,Toys,Consumer,08/02/2023,585.76,66.88,16
+Australia,Canberra,Beauty,Corporate,06/05/2023,28.66,2.3,2
+India,Mumbai,Beauty,Corporate,14/05/2023,119.68,29.4,4
+India,Hyderabad,Beauty,Home Office,21/11/2023,293.67,62.92,13
+USA,New York,Beauty,Home Office,23/03/2023,505.02,180.31,19
+India,Chennai,Furniture,Consumer,08/09/2023,335.4,20.04,12
+Australia,Hobart,Apparel,Corporate,17/12/2023,814.68,131.22,9
+India,Kolkata,Books,Home Office,05/12/2023,311.44,41.92,8
+India,Kolkata,Sports,Consumer,04/12/2023,96.8,28.32,16
+Germany,Cologne,Sports,Corporate,29/05/2023,1219.52,472,16
+USA,Chicago,Beauty,Corporate,13/12/2023,295.24,50.49,11
+USA,Phoenix,Furniture,Consumer,16/03/2023,1071.33,254.02,13
+India,Bangalore,Toys,Corporate,08/10/2023,160.66,43.32,2
+India,Kolkata,Beauty,Consumer,26/03/2023,164.06,52.14,2
+Germany,Berlin,Toys,Home Office,13/06/2023,119.52,4.95,3
+Australia,Brisbane,Books,Consumer,17/02/2023,1241.65,379.24,19
+Germany,Frankfurt,Apparel,Home Office,04/07/2023,1208.61,285.35,13
+Australia,Sydney,Apparel,Corporate,10/10/2023,855.15,283.35,15
+Australia,Sydney,Furniture,Consumer,04/03/2023,98.28,19.32,12
+Australia,Sydney,Furniture,Corporate,24/10/2023,152.32,22.16,4
+Australia,Sydney,Sports,Corporate,15/06/2023,198.27,24.75,9
+India,Mumbai,Apparel,Corporate,20/03/2023,209.88,42.27,3
+USA,Houston,Beauty,Home Office,19/10/2023,753.2,263.6,10
+USA,New York,Apparel,Home Office,19/02/2023,1062,148.56,12
+USA,Los Angeles,Apparel,Home Office,20/03/2023,129.87,11.58,3
+USA,San Diego,Books,Home Office,01/08/2023,495.68,197.92,16
+Australia,Melbourne,Beauty,Consumer,18/01/2023,37.29,9.42,3
+USA,Dallas,Apparel,Home Office,25/10/2023,104.94,23.32,11
+Australia,Perth,Toys,Home Office,14/03/2023,1479,324.15,15
+USA,Phoenix,Furniture,Home Office,20/07/2023,169.44,37.38,6
+India,Kolkata,Toys,Consumer,06/09/2023,368.34,134.4,14
+India,Kolkata,Toys,Corporate,03/06/2023,113.05,20.33,19
+Australia,Melbourne,Electronics,Consumer,24/11/2023,941.1,143.7,10
+Germany,Stuttgart,Groceries,Corporate,06/07/2023,208.2,56.82,6
+Australia,Perth,Toys,Corporate,02/11/2023,682.29,62.7,19
+India,Delhi,Apparel,Corporate,08/08/2023,456.94,62.81,11
+India,Kolkata,Toys,Consumer,05/10/2023,518.76,27.9,18
+Australia,Sydney,Beauty,Corporate,19/01/2023,1064,369.6,16
+USA,Houston,Books,Corporate,07/10/2023,1327.34,318.25,19
+India,Delhi,Furniture,Consumer,03/03/2023,671.5,117,10
+India,Hyderabad,Furniture,Consumer,09/06/2023,50.46,7.84,2
+Germany,Hamburg,Beauty,Consumer,10/07/2023,823,138.1,10
+Germany,Frankfurt,Toys,Home Office,24/07/2023,169.68,63.48,12
+India,Delhi,Toys,Corporate,03/08/2023,557.69,57.4,7
+Australia,Canberra,Furniture,Consumer,21/08/2023,50.08,10.52,4
+USA,Phoenix,Books,Home Office,11/06/2023,170.4,21.06,6
+Germany,Dresden,Groceries,Corporate,06/05/2023,499.86,41.04,18
+Australia,Adelaide,Sports,Corporate,13/01/2023,52.39,14.04,1
+USA,Dallas,Toys,Consumer,08/06/2023,352.05,98.55,5
+Australia,Perth,Toys,Corporate,08/06/2023,32.08,9.73,1
+USA,San Diego,Beauty,Consumer,15/12/2023,141.4,51.32,4
+Australia,Perth,Sports,Consumer,14/07/2023,518.76,198.99,11
+Germany,Hamburg,Electronics,Home Office,01/03/2023,449.2,123.7,10
+Australia,Sydney,Apparel,Home Office,09/10/2023,55.49,5.84,1
+Australia,Hobart,Books,Corporate,09/03/2023,30.06,3.44,2
+USA,San Diego,Beauty,Consumer,10/12/2023,131.97,20.97,3
+India,Bangalore,Apparel,Corporate,09/03/2023,266.73,17.82,3
+Australia,Adelaide,Books,Home Office,03/02/2023,275.59,32.62,7
+Germany,Frankfurt,Electronics,Home Office,21/02/2023,393.3,112.62,6
+Germany,Stuttgart,Groceries,Home Office,29/06/2023,1471.52,24.31,17
+USA,New York,Furniture,Consumer,22/03/2023,736.56,83.79,9
+USA,Dallas,Beauty,Consumer,19/02/2023,31.83,11.61,3
+USA,San Diego,Electronics,Corporate,06/01/2023,1151.68,407.52,16
+Germany,Berlin,Groceries,Consumer,03/06/2023,638.25,115.2,15
+India,Pune,Toys,Consumer,27/08/2023,491.4,31.64,14
+USA,San Diego,Books,Corporate,27/12/2023,302.9,85.95,5
+India,Chennai,Books,Corporate,22/01/2023,387.4,96.4,20
+USA,Chicago,Toys,Consumer,27/03/2023,379.55,103.55,5
+Germany,Hamburg,Beauty,Corporate,23/11/2023,691.95,195.37,7
+Australia,Canberra,Groceries,Corporate,22/10/2023,100.62,35.46,18
+India,Chennai,Groceries,Consumer,23/06/2023,41.24,10.52,2
+USA,Chicago,Furniture,Consumer,30/03/2023,196.77,42.96,3
+USA,Phoenix,Toys,Consumer,26/04/2023,432.67,104.58,7
+Australia,Sydney,Beauty,Consumer,11/02/2023,383.76,116.82,18
+Germany,Dresden,Furniture,Consumer,20/11/2023,5.33,1.03,1
+Germany,Munich,Groceries,Home Office,27/03/2023,1556.16,385.28,16
+Australia,Adelaide,Groceries,Home Office,08/02/2023,271.98,90.45,9
+Australia,Sydney,Electronics,Home Office,16/10/2023,514.26,140.67,9
+India,Chennai,Toys,Consumer,14/07/2023,160.48,59.67,17
+USA,Houston,Furniture,Home Office,05/05/2023,656.64,11.43,9
+India,Hyderabad,Toys,Home Office,15/02/2023,638.11,55.55,11
+Germany,Berlin,Apparel,Corporate,11/04/2023,295.32,72.3,6
+Germany,Hamburg,Toys,Home Office,07/09/2023,661.92,78.61,7
+India,Pune,Apparel,Corporate,20/11/2023,366.18,15.54,6
+Germany,Stuttgart,Sports,Corporate,28/08/2023,171.6,40,20
+USA,Chicago,Toys,Consumer,24/03/2023,596.97,77.04,9
+Australia,Sydney,Electronics,Consumer,19/09/2023,349.92,95.04,18
+USA,Los Angeles,Groceries,Home Office,05/05/2023,368.24,106.96,4
+USA,Phoenix,Toys,Home Office,13/10/2023,67,4.24,1
+Australia,Hobart,Books,Consumer,15/05/2023,409.6,66.24,16
+Australia,Perth,Furniture,Consumer,13/08/2023,1294.95,104.7,15
+India,Chennai,Books,Corporate,24/03/2023,154.56,55.44,7
+Australia,Perth,Apparel,Consumer,12/05/2023,409.42,66.33,11
+India,Pune,Apparel,Consumer,10/09/2023,1117.08,239.28,12
+Germany,Dresden,Beauty,Corporate,25/12/2023,31.27,11.53,1
+Australia,Perth,Books,Consumer,23/02/2023,583.05,121.55,13
+India,Chennai,Apparel,Home Office,24/12/2023,1558.22,145.69,17
+India,Pune,Sports,Corporate,27/12/2023,65.85,17.4,5
+Australia,Hobart,Groceries,Home Office,20/06/2023,73.28,1.06,1
+Germany,Hamburg,Electronics,Home Office,05/11/2023,184.64,23.68,8
+Germany,Hamburg,Furniture,Home Office,30/08/2023,374.56,54.4,16
+Australia,Perth,Electronics,Consumer,24/01/2023,393.84,45.6,8
+Australia,Canberra,Apparel,Consumer,28/12/2023,841.83,290.51,11
+USA,New York,Books,Home Office,12/07/2023,267.04,36.48,16
+India,Delhi,Books,Consumer,22/07/2023,133.29,27.66,3
+Germany,Berlin,Toys,Corporate,03/05/2023,33.54,8.52,6
+India,Hyderabad,Groceries,Corporate,03/06/2023,470.7,183,10
+India,Pune,Toys,Home Office,24/05/2023,929.64,103.92,12
+Australia,Adelaide,Electronics,Corporate,05/10/2023,225.55,39.52,13
+India,Pune,Furniture,Corporate,19/02/2023,1388.85,151.35,15
+Germany,Stuttgart,Toys,Corporate,29/09/2023,1717.03,488.87,19
+USA,San Diego,Groceries,Corporate,15/02/2023,406.65,108.15,15
+Australia,Melbourne,Groceries,Corporate,26/10/2023,296.56,29.36,8
+USA,Houston,Books,Corporate,25/11/2023,614.74,57.54,7
+USA,San Diego,Groceries,Corporate,03/06/2023,1462,222.4,20
+USA,New York,Books,Consumer,19/06/2023,323.82,96.6,6
+USA,Los Angeles,Beauty,Corporate,15/05/2023,618.6,59.1,15
+Australia,Brisbane,Toys,Home Office,22/06/2023,531.43,102.6,19
+USA,Chicago,Beauty,Consumer,24/08/2023,336.4,17.1,10
+Germany,Dresden,Beauty,Corporate,23/07/2023,603.54,217.98,18
+Australia,Melbourne,Sports,Corporate,16/06/2023,143.28,29.94,6
+Germany,Cologne,Beauty,Home Office,29/01/2023,211.65,76.05,5
+Germany,Dresden,Groceries,Home Office,23/02/2023,460.9,140.91,11
+Australia,Canberra,Sports,Corporate,02/11/2023,33.74,12.39,1
+Germany,Stuttgart,Groceries,Corporate,18/12/2023,593.46,140.88,6
+USA,Los Angeles,Sports,Home Office,02/12/2023,1427.4,319.14,18
+USA,Phoenix,Beauty,Consumer,24/07/2023,1288.84,500.92,14
+Australia,Sydney,Furniture,Consumer,01/05/2023,340.52,50.08,4
+Germany,Hamburg,Groceries,Consumer,12/02/2023,44.92,11.08,1
+Australia,Perth,Furniture,Corporate,13/04/2023,394.64,53.12,8
+USA,Dallas,Electronics,Consumer,19/10/2023,199.62,57.24,3
+India,Pune,Sports,Corporate,16/05/2023,198.57,3.84,3
+Australia,Perth,Toys,Corporate,15/08/2023,172.3,39.1,5
+Australia,Canberra,Apparel,Corporate,05/07/2023,589.54,132.51,7
+USA,Houston,Beauty,Consumer,24/10/2023,303.75,113.4,15
+India,Kolkata,Beauty,Consumer,30/10/2023,203.56,43.96,14
+USA,Dallas,Sports,Home Office,09/09/2023,289.52,70.8,4
+Australia,Perth,Books,Consumer,10/08/2023,1579.3,459.85,17
+Germany,Berlin,Toys,Home Office,10/09/2023,82.78,2.46,2
+USA,Dallas,Toys,Corporate,23/02/2023,905.76,201.96,18
+Germany,Berlin,Sports,Corporate,17/02/2023,354.48,49.56,12
+USA,Chicago,Beauty,Consumer,19/10/2023,236.8,38.56,16
+Germany,Frankfurt,Groceries,Home Office,12/04/2023,191.16,75.24,18
+Germany,Munich,Sports,Corporate,27/11/2023,107.47,12.54,11
+India,Hyderabad,Books,Home Office,13/11/2023,478.5,33,15
+Germany,Stuttgart,Sports,Consumer,10/02/2023,322.7,53.41,7
+India,Pune,Furniture,Consumer,13/05/2023,272.52,89.1,18
+Australia,Adelaide,Furniture,Consumer,01/01/2023,111.72,26.8,4
+Australia,Adelaide,Furniture,Corporate,05/09/2023,376.64,63.52,8
+Germany,Munich,Groceries,Consumer,18/03/2023,291.06,61.02,18
+USA,Houston,Apparel,Corporate,01/04/2023,1887.4,541.2,20
+Australia,Hobart,Toys,Consumer,06/10/2023,50.76,13.92,4
+Germany,Dresden,Electronics,Corporate,29/12/2023,1395.36,155.72,17
+India,Chennai,Books,Corporate,28/10/2023,746.9,168.41,11
+Germany,Munich,Beauty,Consumer,31/07/2023,255.15,23.76,9
+Germany,Munich,Furniture,Consumer,13/04/2023,1210.68,165.3,19
+India,Kolkata,Books,Consumer,17/08/2023,1190.84,307.72,14
+USA,Los Angeles,Toys,Corporate,29/11/2023,37.87,11.9,7
+Germany,Dresden,Books,Corporate,23/01/2023,474.37,168.22,13
+Australia,Canberra,Groceries,Corporate,17/07/2023,255.48,26.34,6
+Australia,Brisbane,Groceries,Home Office,29/11/2023,291.55,79.9,17
+USA,Houston,Toys,Consumer,16/11/2023,546.82,43.7,19
+India,Pune,Furniture,Consumer,16/09/2023,119.26,40.1,2
+Germany,Berlin,Electronics,Corporate,13/02/2023,259.11,82.08,9
+India,Chennai,Beauty,Corporate,24/07/2023,445.62,129.22,14
+Australia,Perth,Toys,Corporate,07/06/2023,629.28,92.48,16
+USA,Los Angeles,Books,Home Office,17/09/2023,315.88,63.72,4
+USA,Houston,Books,Home Office,28/01/2023,327.04,18.27,7
+Australia,Melbourne,Groceries,Consumer,06/08/2023,1252.4,39.2,20
+Australia,Brisbane,Toys,Home Office,29/09/2023,60.14,7.94,2
+India,Delhi,Furniture,Home Office,18/10/2023,371.25,29.25,15
+USA,Chicago,Beauty,Consumer,16/01/2023,77.22,30.36,11
+Germany,Munich,Books,Consumer,07/07/2023,256.6,9.24,4
+India,Chennai,Electronics,Home Office,20/10/2023,689.48,211.09,11
+Germany,Munich,Books,Consumer,15/02/2023,1259.4,256.4,20
+Germany,Berlin,Beauty,Home Office,07/05/2023,780.3,298.3,10
+Australia,Melbourne,Toys,Consumer,25/10/2023,842.4,159.24,12
+India,Bangalore,Sports,Consumer,02/08/2023,318.88,110.28,4
+Germany,Dresden,Apparel,Home Office,16/03/2023,169.15,66.95,5
+Germany,Frankfurt,Beauty,Home Office,07/06/2023,1651.5,36.36,18
+Germany,Dresden,Electronics,Consumer,18/02/2023,137.18,51.68,19
+India,Pune,Apparel,Consumer,22/06/2023,432.18,35.56,14
+USA,San Diego,Electronics,Corporate,21/02/2023,1012.32,71.1,18
+Germany,Dresden,Beauty,Corporate,19/01/2023,153.69,57.09,3
+Australia,Canberra,Beauty,Consumer,05/05/2023,150.96,43.56,2
+India,Kolkata,Sports,Consumer,15/05/2023,222.54,13.74,3
+Australia,Brisbane,Furniture,Home Office,22/10/2023,312.48,58.72,16
+India,Pune,Apparel,Home Office,22/03/2023,207.54,48.36,6
+USA,Houston,Furniture,Home Office,07/01/2023,586.44,29.34,9
+Australia,Perth,Electronics,Home Office,17/03/2023,150.93,33.93,13
+Germany,Stuttgart,Apparel,Corporate,04/07/2023,504.9,188.01,9
+India,Delhi,Beauty,Consumer,13/01/2023,1434.46,565.25,17
+Australia,Sydney,Electronics,Consumer,18/02/2023,385.32,107.16,12
+Australia,Canberra,Groceries,Corporate,26/07/2023,584.9,139.5,10
+Australia,Melbourne,Apparel,Consumer,14/06/2023,399.24,140.88,12
+USA,Dallas,Groceries,Consumer,31/07/2023,129.88,31.04,4
+India,Delhi,Furniture,Consumer,02/12/2023,382.4,22.2,20
+USA,San Diego,Apparel,Corporate,24/01/2023,317.73,62.79,7
+India,Bangalore,Sports,Corporate,12/07/2023,665.7,40.2,10
+Australia,Sydney,Apparel,Consumer,08/02/2023,1795.8,232.6,20
+Germany,Stuttgart,Sports,Corporate,28/11/2023,436.81,149.6,11
