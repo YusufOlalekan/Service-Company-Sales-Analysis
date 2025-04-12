@@ -5,7 +5,7 @@
 - [Tools](#tools)
 - [ Data Cleaning/Preparation](#data-cleaning/preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-- [Data Analysis](#data-nalysis)
+- [Data Analysis](#data-analysis)
 - [Project outcome](#project-outcome)
 - 
 
