@@ -1,9 +1,12 @@
 # Service-Company-Sales-Analysis
 
-## Table of Conten
+## Table of Content
 - [Project Overview](#project-overview)
 - [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaning-preparation)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Project outcome](#project-outcome)
+- 
 
 ## for sales project 
 ### Project Overview
@@ -21,7 +24,7 @@ all of these are project overview saksnclxvnc vcm cnb cxjkbv cxn,v,cxv cnmnbxc
 - Power BI- Data Visualization 
 
 
-### Data Cleaning/Preparation\
+### Data Cleaning/Preparation
 Numbering the Steps in data cleaning 
 1. load Data
 2. Ecplore data
